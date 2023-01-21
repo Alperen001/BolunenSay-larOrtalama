@@ -1,0 +1,2 @@
+# BolunenSay-larOrtalama
+BolunenSayılarOrtalama
